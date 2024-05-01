@@ -5,7 +5,7 @@
 
 #### 2. Strategy Design Pattern: <br> 
 
-`TUse different variants of an algorithm within an object and be able to switch from one algorithm to another during runtime.` <br> 
+`Use different variants of an algorithm within an object and be able to switch from one algorithm to another during runtime.` <br> 
 
 #### 3. Command Design Pattern: <br> 
 
